@@ -1,10 +1,7 @@
 
 # An archive of OLD Lightworks user Fx
 
-## Old video effects files for installation in OLD Lightworks (NLE) versions.
-[test](https://en.wikipedia.org/wiki/Non-linear_editing)
-<a href="https://github.com/LWKS-Software/lwks-fx-bundle#ftop" TARGET="_blank">NLE</a>
-
+## Old video effects files for installation in OLD Lightworks ([NLE]) versions.
 
 
 ----------------------------------------------------------------------------
@@ -19,3 +16,8 @@ Maybe some of the effects meet your requirements.  If not, you are welcome to de
 - [**From circle to rectangle** (Distortion)](Stylize/Distortion/CircleToRectangle/README.md)
 - [**Random asymmetric flicker** (Switches)](User/Switches/RandomFlicker/README.md)
 - [**Windows only** (effects with limited ompatibility)](Windows_only/README.md)
+
+
+
+
+[NLE]:https://en.wikipedia.org/wiki/Non-linear_editing
