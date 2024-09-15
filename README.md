@@ -1,10 +1,9 @@
 
-# Lightworks user Fx
+# An archive of OLD Lightworks user Fx
 
-## Video effects for installation in Lightworks.
+## Video effects for installation in OLD Lightworks versions.
 
-The archive with many effects developed and tested by users can be found in the Lightworks forum.
-### <a href="https://www.lwks.com/index.php?option=com_kunena&func=view&catid=7&id=188603&Itemid=81#ftop" TARGET="_blank">lwks.com</a>  
+
 
 ----------------------------------------------------------------------------
 
