@@ -8,7 +8,7 @@
 
 
 
-## Additional OLD effects:
+## Additional OLD effects (all FX-files stored directly in this repository):
 The following additional OLD effects files were never released by the community because, apart from being old, some of them have additional compatibility limitations, others are prototypes whose functionality should be improved or tested.
 Maybe some of the effects meet your needs. If not, feel free to further develop the code.
 
