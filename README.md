@@ -1,10 +1,12 @@
 
-# An archive of OLD Lightworks user Fx
-
-## Old video effects files for installation in OLD Lightworks ([NLE]) versions.
-
+# An ARCHIVE of OLD FX files (and links) that no longer work in all versions of [Lightworks] ([NLE]).  
+### [Click HERE to view a link overview page to current FX files for installation in current versions of Lightworks.](https://github.com/FxSchrauber/lwks-fx)  
 
 ----------------------------------------------------------------------------
+
+## Old video effects files for installation in OLD [Lightworks] ([NLE]) versions:
+
+
 
 ## Additional effects:
 Some of the following effects have limited compatibility, others are prototypes whose functionality should be improved or tested.  
@@ -20,4 +22,6 @@ Maybe some of the effects meet your requirements.  If not, you are welcome to de
 
 
 
-[NLE]:https://en.wikipedia.org/wiki/Non-linear_editing
+
+[NLE]:https://en.wikipedia.org/wiki/Non-linear_editing "Non-linear editing, link to wikipedia.org"
+[Lightworks]: https://lwks.com/ "Link to video editing software page https://lwks.com/"
