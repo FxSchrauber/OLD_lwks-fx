@@ -4,8 +4,9 @@
 
 ----------------------------------------------------------------------------
 
-## Old video effects files for installation in OLD [Lightworks] ([NLE]) versions:
+## Old video effects files for installation in OLD [Lightworks] ([NLE]) versions: 
 
+- [Effect versions compatible with Lightworks version 2022 and some previous versions (Forum link with zip files).](https://forum.lwks.com/threads/custom-and-user-effects.246700/)
 
 
 ## Additional OLD effects (all FX-files stored directly in this repository):
