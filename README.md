@@ -1,13 +1,14 @@
 
-# An ARCHIVE of OLD FX files (and links) that are no longer compatible with any version of [Lightworks] ([NLE]).  
-### [Click HERE to view a link overview page to current FX files for installation in current versions of Lightworks.](https://github.com/FxSchrauber/lwks-fx)  
+# An ARCHIVE of OLD community FX files (and links to effect libraries) with limited compatibility.  
+### [Click HERE to view a link overview page to current FX libraries for installation in current versions of Lightworks.](https://github.com/FxSchrauber/lwks-fx)  
 
 ----------------------------------------------------------------------------
 
-## Old video effects files for installation in OLD [Lightworks] ([NLE]) versions: 
+## Old effect libraries for installation in OLD [Lightworks] ([NLE]) versions: 
+- [Compatible with Lightworks 2023 (GitHub, outdated forked backup from February-26-2024)]()
+- [Compatible with Lightworks version 2022 and some previous versions (Forum link).](https://forum.lwks.com/threads/custom-and-user-effects.246700/)
 
-- [Effect versions compatible with Lightworks version 2022 and some previous versions (Forum link).](https://forum.lwks.com/threads/custom-and-user-effects.246700/)
-
+- []()
 
 ## Additional OLD effects (all FX-files stored directly in this repository):
 The following additional OLD effects files were never released by the community because, apart from being old, some of them have additional compatibility limitations, others are prototypes whose functionality should be improved or tested.
