@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------
 
 ## Old effect libraries for installation in OLD [Lightworks] ([NLE]) versions: 
-- [Compatible with Lightworks 2023 (GitHub, outdated forked backup from February-26-2024)]()
+- [Compatible with Lightworks 2023 (GitHub, outdated forked backup from February-26-2024)](https://github.com/FxSchrauber/OLD-lwks-fx-bundle_February-26-2024)
 - [Compatible with Lightworks version 2022 and some previous versions (Forum link).](https://forum.lwks.com/threads/custom-and-user-effects.246700/)  
   
 -----------------------------------------------------------------------------
