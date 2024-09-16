@@ -1,5 +1,5 @@
 
-# An ARCHIVE of OLD FX files (and links) that no longer work in all versions of [Lightworks] ([NLE]).  
+# An ARCHIVE of OLD FX files (and links) that are no longer compatible with any version of [Lightworks] ([NLE]).  
 ### [Click HERE to view a link overview page to current FX files for installation in current versions of Lightworks.](https://github.com/FxSchrauber/lwks-fx)  
 
 ----------------------------------------------------------------------------
